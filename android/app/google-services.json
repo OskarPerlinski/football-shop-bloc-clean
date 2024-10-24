@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182026358902",
+    "project_id": "football-0101",
+    "storage_bucket": "football-0101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182026358902:android:28fcc96ada432ed82d4f57",
+        "android_client_info": {
+          "package_name": "com.example.football_shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyL_qTTHq6xuv4pCwEon1CniLOJZ0zd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
